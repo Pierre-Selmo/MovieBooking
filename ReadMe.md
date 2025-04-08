@@ -1,0 +1,1 @@
+npx json-server --watch Movies.json --port 3000
