@@ -34,7 +34,7 @@ fetch("http://localhost:3000/movies")
         const posterContainer = document.getElementById("movie-poster-container");
         const moviePoster = document.getElementById("movie-poster");
 
-        //
+        
         moviePoster.src = selectedMovie.poster;
         posterContainer.style.display = "block";
 
